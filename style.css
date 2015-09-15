@@ -2,7 +2,10 @@ h2 {
   color: #2F4F4F;
   font-size: 500%;
 }
-
+body {
+  background-color: green;
+  color: white;
+}
 .hobby {
   color: green;
   font-size: 200%;
